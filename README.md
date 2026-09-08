@@ -78,18 +78,11 @@ A living showcase of my ongoing projects and design work.
 ## <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="28"> GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=puplvr07&show_icons=true&hide_border=true&bg_color=3c3c3c&title_color=e3b23c&icon_color=e3b23c&text_color=f2ede4" height="165"/>
-<img src="https://streak-stats.demolab.com/?user=puplvr07&hide_border=true&background=3c3c3c&stroke=3c3c3c&ring=e3b23c&fire=e3b23c&currStreakLabel=f2ede4&sideLabels=f2ede4&currStreakNum=f2ede4&sideNums=f2ede4&dates=c9c2b6" height="165"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=puplvr07&show_icons=true&hide_border=true&bg_color=3c3c3c&title_color=e3b23c&icon_color=e3b23c&text_color=f2ede4" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=puplvr07&hide_border=true&background=3c3c3c&stroke=3c3c3c&ring=e3b23c&fire=e3b23c&currStreakLabel=f2ede4&sideLabels=f2ede4&currStreakNum=f2ede4&sideNums=f2ede4&dates=c9c2b6" height="165"/>
 </div>
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=puplvr07&hide_border=true&bg_color=3c3c3c&color=f2ede4&line=e3b23c&point=f2ede4&area_color=e3b23c&area=true" width="95%"/>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3a3a3a,100:1a1a1a&height=2&width=100%" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3a3a3a,100:1a1a1a&height=2&width=100%25" width="100%"/>
 <div align="center">
 
 <img src="./assets/footer-star.svg" width="60"/>
