@@ -79,13 +79,13 @@ A living showcase of my ongoing projects and design work.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=puplvr07&show_icons=true&theme=graywhite&hide_border=true&bg_color=00000000&title_color=6e6e6e&icon_color=6e6e6e&text_color=4d4d4d" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=puplvr07&theme=graywhite&hide_border=true&background=00000000&stroke=6e6e6e&ring=6e6e6e&fire=4d4d4d&currStreakLabel=4d4d4d" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=puplvr07&show_icons=true&hide_border=true&bg_color=3c3c3c&title_color=e3b23c&icon_color=e3b23c&text_color=f2ede4" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=puplvr07&hide_border=true&background=3c3c3c&stroke=3c3c3c&ring=e3b23c&fire=e3b23c&currStreakLabel=f2ede4&sideLabels=f2ede4&currStreakNum=f2ede4&sideNums=f2ede4&dates=c9c2b6" height="165"/>
 
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=puplvr07&theme=minimal&hide_border=true&bg_color=00000000&color=4d4d4d&line=6e6e6e&point=1a1a1a" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=puplvr07&hide_border=true&bg_color=3c3c3c&color=f2ede4&line=e3b23c&point=f2ede4&area_color=e3b23c&area=true" width="95%"/>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3a3a3a,100:1a1a1a&height=2&width=100%" width="100%"/>
