@@ -78,7 +78,6 @@ A living showcase of my ongoing projects and design work.
 ## <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="28"> GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=puplvr07&show_icons=true&hide_border=true&bg_color=3c3c3c&title_color=e3b23c&icon_color=e3b23c&text_color=f2ede4" height="165"/>
   <img src="https://streak-stats.demolab.com/?user=puplvr07&hide_border=true&background=3c3c3c&stroke=3c3c3c&ring=e3b23c&fire=e3b23c&currStreakLabel=f2ede4&sideLabels=f2ede4&currStreakNum=f2ede4&sideNums=f2ede4&dates=c9c2b6" height="165"/>
 </div>
 
