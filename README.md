@@ -1,26 +1,99 @@
-<h1 align="center">HI! I'm Sean</h1>
-<h3 align="center">A student developer from the PHILIPPINES!!!</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=puplvr07&label=Profile%20views&color=0e75b6&style=flat" alt="puplvr07" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b2b2b,100:6e6e6e&height=180&section=header&text=Hi,%20I'm%20Sean&fontSize=42&fontColor=eaeaea&fontAlignY=40&animation=fadeIn&desc=Student%20Developer%20from%20the%20Philippines&descAlignY=58&descSize=16&descAlign=50" width="100%"/>
 
-- Currently working on... [a lost and found website](https://puplvr07.github.io/lost-andfound/index.html)
+<br/>
 
-- I'm learning... **SQL, JavaScript, Python, React**
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=A9A9A9&center=true&vCenter=true&width=560&lines=console.log(%22Hello+World%22)%3B;Learning+SQL+%7C+JavaScript+%7C+Python+%7C+React;Currently+building+a+Lost+%26+Found+website;Dabbling+in+Roblox+game+dev+on+the+side" alt="Typing SVG" />
+</a>
 
-- Here's my updated portfolio! *In Progress [https://puplvr07.github.io/dy-portfolio/](https://puplvr07.github.io/dy-portfolio/)
+<img src="https://komarev.com/ghpvc/?username=puplvr07&label=Profile%20Views&color=6e6e6e&style=flat-square" alt="puplvr07"/>
 
-- Reach me @... **rahmenlvr@gmail.com**
+</div>
 
-- Here's my linked in profile! [https://www.linkedin.com/in/sean-chester-dy-6994b5380/](https://www.linkedin.com/in/sean-chester-dy-6994b5380/)
+<br/>
 
-- Fun fact about me **I also dabble in some game development over on roblox**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3a3a3a,100:1a1a1a&height=2&width=100%" width="100%"/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sean chester dy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sean chester dy" height="30" width="40" /></a>
-</p>
+## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f038d2d-fcf8-4bf0-a6d1-a70699a29b71.gif" width="28"> About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+```yaml
+name: Sean Chester Dy
+role: Student Developer
+based_in: Philippines
+currently_building: Lost & Found Website
+learning: [SQL, JavaScript, Python, React]
+fun_fact: "I also dabble in game development on Roblox"
+```
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=puplvr07&" alt="puplvr07" /></p>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔨 Currently Working On
+**[Lost & Found Website →](https://puplvr07.github.io/lost-andfound/index.html)**
+
+A project focused on solving everyday lost-and-found problems for a campus community.
+
+</td>
+<td width="50%" valign="top">
+
+### 🎨 Portfolio
+**[View my portfolio (WIP) →](https://puplvr07.github.io/dy-portfolio/)**
+
+A living showcase of my ongoing projects and design work.
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3a3a3a,100:1a1a1a&height=2&width=100%" width="100%"/>
+
+## <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="28"> Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/sean-chester-dy-6994b5380/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a" />
+</a>
+<a href="mailto:rahmenlvr@gmail.com">
+  <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a" />
+</a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3a3a3a,100:1a1a1a&height=2&width=100%" width="100%"/>
+
+## <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="28"> Languages & Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=androidstudio,arduino,aws,azure,blender,c,cpp,css,figma,firebase,gcp,git,html,java,js,kotlin,mysql,nodejs,php,py,react,reactnative,sqlite,tailwind,unity,unrealengine&theme=dark" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3a3a3a,100:1a1a1a&height=2&width=100%" width="100%"/>
+
+## <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="28"> GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=puplvr07&show_icons=true&theme=graywhite&hide_border=true&bg_color=00000000&title_color=6e6e6e&icon_color=6e6e6e&text_color=4d4d4d" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=puplvr07&theme=graywhite&hide_border=true&background=00000000&stroke=6e6e6e&ring=6e6e6e&fire=4d4d4d&currStreakLabel=4d4d4d" height="165"/>
+
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=puplvr07&theme=minimal&hide_border=true&bg_color=00000000&color=4d4d4d&line=6e6e6e&point=1a1a1a" width="95%"/>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3a3a3a,100:1a1a1a&height=2&width=100%" width="100%"/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b2b2b,100:6e6e6e&height=100&section=footer" width="100%"/>
+
+<sub>Thanks for stopping by — feel free to reach out anytime.</sub>
+
+</div>
