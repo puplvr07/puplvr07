@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b2b2b,100:6e6e6e&height=180&section=header&text=Hi,%20I'm%20Sean&fontSize=42&fontColor=eaeaea&fontAlignY=40&animation=fadeIn&desc=Student%20Developer%20from%20the%20Philippines&descAlignY=58&descSize=16&descAlign=50" width="100%"/>
+<img src="./assets/header-stars.svg" width="100%"/>
 
 <br/>
 
@@ -92,7 +92,7 @@ A living showcase of my ongoing projects and design work.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b2b2b,100:6e6e6e&height=100&section=footer" width="100%"/>
+<img src="./assets/footer-star.svg" width="60"/>
 
 <sub>Thanks for stopping by — feel free to reach out anytime.</sub>
 
